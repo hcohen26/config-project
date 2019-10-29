@@ -17,7 +17,7 @@ syslog_vip: syslogrelay.ris.dev.swacorp.com
 environment: WN_CDS
 deploy_server: XLDSIX03
 tc_load_balancer: https://sixsysop.dev3.swacorp.com
-tc_servers: ["XLDSIX03"]
+tcServers: ["XLDSIX03"]
 sysop_servers: ["XLDSIX03"]
 sysop_nodes: ["XLDSIX03"]
 zookeeper_servers: ["XLDSIX03"]
