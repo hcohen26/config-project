@@ -1,4 +1,4 @@
----
+message: Hello
 name: dev3
 description: Dev3 single server environment
 cookbook_versions: {}
